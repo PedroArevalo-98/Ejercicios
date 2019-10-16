@@ -28,12 +28,13 @@ public class ejerciciodados12 {
 				d6=d6+1;
 			}
 			
-		}System.out.println(" la cara 1 ha salido un " +d1/100 +" % de veces");
-		System.out.println(" la cara 2 ha salido un " +d2/100 +" % de veces");
-		System.out.println(" la cara 3 ha salido un " +d3/100 +" % de veces");
-		System.out.println(" la cara 4 ha salido un " +d4/100 +" % de veces");
-		System.out.println(" la cara 5 ha salido un " +d5/100 +" % de veces");
-		System.out.println(" la cara 6 ha salido un " +d6/100 +" % de veces");
+		}
+		System.out.println(" la cara 1 ha salido un " +(d1/100) +" % de veces");
+		System.out.println(" la cara 2 ha salido un " +(d2/100) +" % de veces");
+		System.out.println(" la cara 3 ha salido un " +(d3/100) +" % de veces");
+		System.out.println(" la cara 4 ha salido un " +(d4/100) +" % de veces");
+		System.out.println(" la cara 5 ha salido un " +(d5/100) +" % de veces");
+		System.out.println(" la cara 6 ha salido un " +(d6/100) +" % de veces");
 		
 	}
 	}
